@@ -266,6 +266,11 @@ _3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resis
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?_
 
+_El voltaje y la corriente en el circuito si se cambian el valor del capacitor ya sea mayor o menor al indicado su voltaje aumentará o disminuirá en una pequeña variación, pero si el condensador es de alto almacenamiento de energía el voltaje tendrá un gran cambio al momento del condensador almacene su energía de igual forma sucederá con la corriente._
+
+_Para el segundo circuito el voltaje depende del valor de las bobinas aumentara o disminuirá si la bobina cambiara de valor ya sea que este disminuye o aumenta y su corriente se mantendrá constante_
+
+
 _4.- ¿Qué son los valores eficaces de voltaje y corriente?_
 
 ## 5. VIDEO
