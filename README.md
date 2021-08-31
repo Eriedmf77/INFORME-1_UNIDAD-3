@@ -47,12 +47,61 @@ _1.- Construya en el protoboard el circuito mostrado en la Figura 1._
 
 _a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas._
+_Para 0 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444073-33967dba-d6af-401c-a027-d6b5b8847ab9.png)
+
+_Para 10 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444115-78e8a1ad-d842-4054-b56b-e0a8fc7f7ae8.png)
+
+_Para 50 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444164-3bf4a8ad-10f9-4fac-b6a4-c89c8b434138.png)
+
+_Para 100 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444204-d7dd8c85-9956-4f44-a1ae-7ef697d6ce0b.png)
+
+_Para 500 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444245-e6811470-44a3-49ca-b54e-e6faa2f99b32.png)
+
+_Para 1000 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444288-a799ed83-b9ac-4ece-86a0-3b837dba7954.png)
+
 
 _b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados._
 
 _c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados._
+
+_Para 0 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444337-0c390306-d0dd-4d60-834d-11e1e824ab1e.png)
+
+_Para 10 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444374-d4b9a926-c41a-4d9e-b905-aa89ccd23674.png)
+
+_Para 50 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444482-24768634-4510-4f03-a0e9-afe92fb29d70.png)
+
+
+_Para 100 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444502-42e869c8-53a8-4532-b817-2109bac56d97.png)
+
+_Para 500 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444542-9538b751-0b67-48ec-a81d-1088965b6215.png)
+
+_Para 1000 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444584-24baec70-9ce3-44bc-82b1-0550f71bc674.png)
 
 _2.- Construya el circuito mostrado en la Figura 2_
 
@@ -61,11 +110,61 @@ _2.- Construya el circuito mostrado en la Figura 2_
 _a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas._
 
+_Para 0 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444648-fef4ff33-c5e6-444b-8690-f3638a06757d.png)
+
+_Para 10 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444694-5df37714-585b-4c15-8443-028653bb0816.png)
+
+_Para 50 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444721-1c3c4011-ec64-4e07-9025-cea52d4966ec.png)
+
+_Para 100 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444752-6d5fdfbf-f74d-469b-967e-101e9fef086e.png)
+
+_Para 500 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444796-7b3cad28-25b9-445f-925b-2317a3269727.png)
+
+_Para 1000 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444829-9e91d037-5dc7-41ec-9b31-8b7cc1c6a08c.png)
+
+
 _b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados._
 
 _c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados._
+
+_Para 0 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444881-10a180fe-95eb-4bb7-b237-01b4851681b1.png)
+
+_Para 10 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444919-6e9318ea-7d7a-427f-8809-beb19edc91cd.png)
+
+_Para 50 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131444949-d4e35162-f724-4ddf-86e6-0792a3e47fcc.png)
+
+_Para 100 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131445092-64b9922a-c574-4c37-8ec3-48d7e92a7143.png)
+
+_Para 500 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131445065-9a225232-55ae-4e40-8e63-09df2e093c14.png)
+
+_Para 1000 Hz_
+
+![image](https://user-images.githubusercontent.com/84418933/131445106-7b23940e-43d7-40d3-9faf-611ea7cd0f20.png)
+
 
 _9.4 Análisis de resultados_
 
