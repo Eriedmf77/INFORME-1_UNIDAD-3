@@ -180,6 +180,31 @@ _Para 1000 Hz_
 
 ![image](https://user-images.githubusercontent.com/84418933/131445106-7b23940e-43d7-40d3-9faf-611ea7cd0f20.png)
 
+**Amperimetro en multisim**
+
+_Para 0 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131534142-ae3d6fa9-5ccb-4cc5-b492-b09763804f57.png)
+
+_Para 10 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131534253-37a625ca-7ade-4ea4-b3b8-917ec4eaddc8.png)
+
+_Para 50 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131534339-7ede80df-26cd-45b9-9400-6aded4e244ad.png)
+
+_Para 100 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131534449-f67f930d-fa0e-44d4-85ff-cfe6430d5ebb.png)
+
+_Para 500 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131534527-4ebeac7a-5c58-49b8-89e3-bec2e313ebfc.png)
+
+_Para 1000 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131534600-e070f28b-2118-4abd-99c7-3db5e39e25c1.png)
 
 _9.4 Análisis de resultados_
 
