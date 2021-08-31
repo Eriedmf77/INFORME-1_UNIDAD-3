@@ -58,31 +58,33 @@ _1.- Construya en el protoboard el circuito mostrado en la Figura 1._
 
 ![image](https://user-images.githubusercontent.com/85259801/131050330-7454c867-a257-4ded-a5e2-cc67d9df75fc.png)
 
+![image](https://user-images.githubusercontent.com/84418933/131532610-68399da5-07f8-493e-994a-f549976bdeb7.png)
+
 _a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas._
 _Para 0 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444073-33967dba-d6af-401c-a027-d6b5b8847ab9.png)
+![image](https://user-images.githubusercontent.com/84418933/131532654-99aafaf4-03e2-450b-9fb6-65bdf3baf1eb.png)
 
 _Para 10 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444115-78e8a1ad-d842-4054-b56b-e0a8fc7f7ae8.png)
+![image](https://user-images.githubusercontent.com/84418933/131532725-8e292029-75bc-4481-b1ae-0e0862d9df4d.png)
 
 _Para 50 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444164-3bf4a8ad-10f9-4fac-b6a4-c89c8b434138.png)
+![image](https://user-images.githubusercontent.com/84418933/131532778-b23c2d2a-11cb-44d1-92a1-6a8eaeb4b068.png)
 
 _Para 100 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444204-d7dd8c85-9956-4f44-a1ae-7ef697d6ce0b.png)
+![image](https://user-images.githubusercontent.com/84418933/131532855-c07adf3b-0fb6-4470-ba64-9a48e2924330.png)
 
 _Para 500 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444245-e6811470-44a3-49ca-b54e-e6faa2f99b32.png)
+![image](https://user-images.githubusercontent.com/84418933/131532898-9da234db-9528-4a1e-af2e-5293659ad30d.png)
 
 _Para 1000 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444288-a799ed83-b9ac-4ece-86a0-3b837dba7954.png)
+![image](https://user-images.githubusercontent.com/84418933/131532969-d3f6caa0-d51f-42d1-acf0-4980bcda315d.png)
 
 
 _b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
@@ -93,28 +95,28 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados._
 
 _Para 0 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444337-0c390306-d0dd-4d60-834d-11e1e824ab1e.png)
+![image](https://user-images.githubusercontent.com/84418933/131533044-65b3cd72-df8b-4fa5-8dba-cfd304abe4c1.png)
 
 _Para 10 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444374-d4b9a926-c41a-4d9e-b905-aa89ccd23674.png)
+![image](https://user-images.githubusercontent.com/84418933/131533095-5d29ab2c-53fc-4b66-a74e-db8c813f68b8.png)
 
 _Para 50 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444482-24768634-4510-4f03-a0e9-afe92fb29d70.png)
-
+![image](https://user-images.githubusercontent.com/84418933/131533149-3497abd4-e1e6-4f41-b66c-bba499406923.png)
 
 _Para 100 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444502-42e869c8-53a8-4532-b817-2109bac56d97.png)
+![image](https://user-images.githubusercontent.com/84418933/131533225-ebfd8a3c-c6f7-4075-846c-8c4333230e8e.png)
 
 _Para 500 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444542-9538b751-0b67-48ec-a81d-1088965b6215.png)
+![image](https://user-images.githubusercontent.com/84418933/131533293-88a11095-72c0-4d66-a519-d08f0c8748e3.png)
 
 _Para 1000 Hz_
 
-![image](https://user-images.githubusercontent.com/84418933/131444584-24baec70-9ce3-44bc-82b1-0550f71bc674.png)
+![image](https://user-images.githubusercontent.com/84418933/131533360-d912747b-8384-4040-89a1-a0f875a1f315.png)
+
 
 _2.- Construya el circuito mostrado en la Figura 2_
 
@@ -184,6 +186,12 @@ _9.4 Análisis de resultados_
 _1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas._
+
+**Para circuito Figura 1**
+
+![image](https://user-images.githubusercontent.com/84418933/131533617-e65e28a7-6aca-47ae-961b-afa4242c079c.png)
+
+![image](https://user-images.githubusercontent.com/84418933/131533738-66f6cdfd-108c-4013-9eed-fd18cfc3c740.png)
 
 _9.5 Preguntas_ 
 
