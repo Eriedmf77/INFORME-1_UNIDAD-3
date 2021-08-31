@@ -117,6 +117,31 @@ _Para 1000 Hz_
 
 ![image](https://user-images.githubusercontent.com/84418933/131533360-d912747b-8384-4040-89a1-a0f875a1f315.png)
 
+**Corriente figura 1 multisim**
+
+_Para 0 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131540784-62af3e36-b1e0-4960-8a47-27da7ed59e31.png)
+
+_Para 10 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131540861-58c0c288-e56a-43c4-9cd0-38bd72326e3e.png)
+
+_Para 50 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131540926-94ebe940-c9a5-48c6-bea2-f586ab5b7321.png)
+
+_Para 100 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131541014-6df3f925-551b-46f6-8752-f810a2fc1b9d.png)
+
+_Para 500 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131541114-acd95c5f-3a72-4dd9-9146-21a4a29ededd.png)
+
+_Para 1000 Hz_
+
+![image](https://user-images.githubusercontent.com/85728185/131541197-2ee3ea94-817e-49a7-afa2-73d5d05b2940.png)
 
 _2.- Construya el circuito mostrado en la Figura 2_
 
@@ -242,7 +267,7 @@ Gómez Campomanes, José. Circuitos Eléctricos. Servicio de Publicaciones de la
 
 E.O. (2018, 7 mayo). Inductores. Electrónica Online. https://electronicaonline.net/componentes-electronicos/inductor/
 
-McAllister, W. M. (2019, 18 junio). Ecuacion de corriente y voltaje de un inductor. Ecuacion de la corriente y voltaje de una inductancia. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/wmc-inductor-in-action
+
 
 
 
