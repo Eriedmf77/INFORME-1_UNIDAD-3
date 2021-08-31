@@ -267,7 +267,7 @@ Gómez Campomanes, José. Circuitos Eléctricos. Servicio de Publicaciones de la
 
 E.O. (2018, 7 mayo). Inductores. Electrónica Online. https://electronicaonline.net/componentes-electronicos/inductor/
 
-
+McAllister, W. M. (2019, 18 junio). Ecuacion de corriente y voltaje de un inductor. Ecuacion de la corriente y voltaje de una inductancia. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/wmc-inductor-in-action
 
 
 
