@@ -14,7 +14,7 @@
 
 ***Objetivo general de la practica***
 
-_Realizar las mediciones y verificar las ondas sinusoidales en el osciloscopio cambiando los valores de frecuencia dadas._
+_Realizar las mediciones y verificar las ondas sinusoidales en el osciloscopio._
 
 ***Objetivos especificos***
 
@@ -205,7 +205,7 @@ _Para 1000 Hz_
 
 ![image](https://user-images.githubusercontent.com/84418933/131445106-7b23940e-43d7-40d3-9faf-611ea7cd0f20.png)
 
-**Amperimetro en multisim**
+**Corriente Figura 2 Multisim**
 
 _Para 0 Hz_
 
