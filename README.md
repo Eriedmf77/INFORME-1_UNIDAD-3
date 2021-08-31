@@ -262,6 +262,10 @@ _En cambio la bobina como almacena corriente y se conecta en serie al momento de
 
 _2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?_
 
+_La bobina si sabemos que la corriente alterna se encuentra en un estado variable constante su campo magnético debido a sus líneas de fuerzas se mantendrá en constante expansión cuando aumenta su valor y decrecerá cuando disminuya su valor por lo cual la corriente en general generará un retraso de señal_
+_El capacitor en corriente alterna como es un almacenador de energía se va a cargar y descargar de acuerdo al voltaje, tambien se cargará y descargará dependiendo la frecuencia de oscilación que es transmitido desde la fuente, su comportamiento dependerá de su función por un tiempo definido_
+
+
 _3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?_
