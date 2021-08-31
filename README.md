@@ -199,6 +199,7 @@ _4.- ¿Qué son los valores eficaces de voltaje y corriente?_
 
 ## 7. BIBLIOGRAFÍA
 
+Gómez Campomanes, José. Circuitos Eléctricos. Servicio de Publicaciones de la Universidad de Oviedo. ISBN 84-7468-288-6.
 
 
 
