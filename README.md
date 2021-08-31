@@ -285,6 +285,8 @@ https://youtu.be/_UIJQqIHhlU
 
 _Con forme a lo realizado se ha podido medir y verificar las ondas sinusoidales que nos muestra el osciloscopio con las frecuencias dadas, de tal manera que se observo los cambios de amplitud de onda de las frecuencias al momento de cambiar los valores._
 
+_Si sabemos que la corriente alterna está en un estado constante de la bobina, su campo magnético mantendrá una expansión constante cuando su valor aumente y disminuirá cuando su valor disminuya. Por lo tanto, la corriente generalmente produce un retardo de señal. La corriente actúa como un almacenamiento. El dispositivo de energía se cargará y descargará de acuerdo con el voltaje, también se cargará y descargará de acuerdo con la frecuencia de oscilación transmitida desde la fuente, su comportamiento dependerá de su función dentro del tiempo especificado_
+
 ## 7. BIBLIOGRAFÍA
 
 Gómez Campomanes, José. Circuitos Eléctricos. Servicio de Publicaciones de la Universidad de Oviedo. ISBN 84-7468-288-6.
