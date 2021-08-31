@@ -184,27 +184,27 @@ _Para 1000 Hz_
 
 _Para 0 Hz_
 
-![image](https://user-images.githubusercontent.com/85728185/131534142-ae3d6fa9-5ccb-4cc5-b492-b09763804f57.png)
+![image](https://user-images.githubusercontent.com/85728185/131539038-2bde5833-a9d3-4b88-a020-1bd1a8b48af2.png)
 
 _Para 10 Hz_
 
-![image](https://user-images.githubusercontent.com/85728185/131534253-37a625ca-7ade-4ea4-b3b8-917ec4eaddc8.png)
+![image](https://user-images.githubusercontent.com/85728185/131538959-9c69af6e-5771-48c5-bd5f-81b206256bb6.png)
 
 _Para 50 Hz_
 
-![image](https://user-images.githubusercontent.com/85728185/131534339-7ede80df-26cd-45b9-9400-6aded4e244ad.png)
+![image](https://user-images.githubusercontent.com/85728185/131538897-862fd7a1-1749-412d-bfc2-fb642cc1c082.png)
 
 _Para 100 Hz_
 
-![image](https://user-images.githubusercontent.com/85728185/131534449-f67f930d-fa0e-44d4-85ff-cfe6430d5ebb.png)
+![image](https://user-images.githubusercontent.com/85728185/131538781-3afc32a2-8e4e-4ba2-8a0e-b1945b98d2eb.png)
 
 _Para 500 Hz_
 
-![image](https://user-images.githubusercontent.com/85728185/131534527-4ebeac7a-5c58-49b8-89e3-bec2e313ebfc.png)
+![image](https://user-images.githubusercontent.com/85728185/131538678-9bccc357-055f-4c0a-bc0c-0ed7a8d8772a.png)
 
 _Para 1000 Hz_
 
-![image](https://user-images.githubusercontent.com/85728185/131534600-e070f28b-2118-4abd-99c7-3db5e39e25c1.png)
+![image](https://user-images.githubusercontent.com/85728185/131538594-cb23d587-d4de-46fb-9c70-0f2ccb937147.png)
 
 _9.4 Análisis de resultados_
 
