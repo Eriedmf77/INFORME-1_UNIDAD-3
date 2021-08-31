@@ -50,6 +50,10 @@ _Resistencias, bobinas y capacitores._
 
 ## 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/85259801/131530905-5734ca7b-70cb-495c-bb9c-e9cf740fca01.png)
+
+## 3. PROCEDIMIENTO
+
 _1.- Construya en el protoboard el circuito mostrado en la Figura 1._
 
 ![image](https://user-images.githubusercontent.com/85259801/131050330-7454c867-a257-4ded-a5e2-cc67d9df75fc.png)
