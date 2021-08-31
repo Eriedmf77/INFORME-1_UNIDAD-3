@@ -240,7 +240,7 @@ _Con forme a lo realizado se ha podido medir y verificar las ondas sinusoidales 
 
 Gómez Campomanes, José. Circuitos Eléctricos. Servicio de Publicaciones de la Universidad de Oviedo. ISBN 84-7468-288-6.
 
-
+E.O. (2018, 7 mayo). Inductores. Electrónica Online. https://electronicaonline.net/componentes-electronicos/inductor/
 
 
 
