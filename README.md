@@ -255,6 +255,11 @@ _9.5 Preguntas_
 
 _1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?_
 
+_La corriente continua en un capacitor como en una bobina se comporta de manera opuesta a su función, el capacitor es un almacenador de energía separados por dos placas, al momento de corriente continua (Hz) en este caso ocurre una fuga de energía que lo dejaría como un circuito abierto._
+_En cambio la bobina como almacena corriente y se conecta en serie al momento de colocar los 0 Hz se comporta como un corto circuito prohibiendo el paso de la corriente_
+
+
+
 _2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?_
 
 _3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
