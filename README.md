@@ -14,7 +14,7 @@
 
 ***Objetivo general de la practica***
 
-_Realizar las mediciones y verificar las ondas sinusoidales en el osciloscopio._
+_Realizar las mediciones y verificar las ondas sinusoidales en el osciloscopio cambiando los valores de frecuencia dadas._
 
 ***Objetivos especificos***
 
