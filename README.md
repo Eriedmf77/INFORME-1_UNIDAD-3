@@ -14,8 +14,17 @@
 
 ***Objetivo general de la practica***
 
+_Realizar las mediciones y verificar las ondas sinusoidales en el osciloscopio._
 
 ***Objetivos especificos***
+
+_Verificar el comportamiento de la bobina y el capacitor en circuitos DC._
+
+_Verificar el comportamiento de la bobina y el capacitor en circuitos AC._
+
+_Verificar las combinaciones serie y paralelo de bobinas y capacitores._
+
+_Familiarizarse con el uso de instrumentos de medida._
 
 _Determinar la corriente que pasa por el circuito para cada resistor del circuito._
 
