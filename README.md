@@ -241,7 +241,11 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 ![image](https://user-images.githubusercontent.com/84418933/131533617-e65e28a7-6aca-47ae-961b-afa4242c079c.png)
 
-![image](https://user-images.githubusercontent.com/84418933/131533738-66f6cdfd-108c-4013-9eed-fd18cfc3c740.png)
+
+
+**Para circuito Figura 2**
+
+![image](https://user-images.githubusercontent.com/84418933/131541765-3fce9ef0-5377-48b1-a86d-b63efbaabedd.png)
 
 _9.5 Preguntas_ 
 
