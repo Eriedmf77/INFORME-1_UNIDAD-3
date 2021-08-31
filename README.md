@@ -261,6 +261,8 @@ _4.- ¿Qué son los valores eficaces de voltaje y corriente?_
 
 ## 5. VIDEO
 
+https://youtu.be/_UIJQqIHhlU
+
 ## 6. CONCLUSIONES
 
 _Con forme a lo realizado se ha podido medir y verificar las ondas sinusoidales que nos muestra el osciloscopio con las frecuencias dadas, de tal manera que se observo los cambios de amplitud de onda de las frecuencias al momento de cambiar los valores._
